@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an event vue app that uses vue, axios and a faux api.
+This is an event app that loads dynamic data by makiing asynchronous API calls.  Axios is used to make the API calls.  The calls are made in a component's lifecycle hook.
 
 ## Project setup
 ```
