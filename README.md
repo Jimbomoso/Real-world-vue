@@ -1,5 +1,9 @@
 # real-world-view
 
+## Overview
+
+This is an event vue app that uses vue, axios and a faux api.
+
 ## Project setup
 ```
 npm install
