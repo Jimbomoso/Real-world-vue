@@ -44,6 +44,42 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id": 5121250,
+      "user": {
+        "id": "abc123",
+        "name": "James"
+      },
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "James"
+      },
+      "title": "Working?",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 9729037,
+      "user": {
+        "id": "abc123",
+        "name": "James"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "James"
+      },
+      "title": "Planting trees ",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
